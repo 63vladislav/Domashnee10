@@ -15,6 +15,5 @@ class ViewController: UIViewController {
     func changeBGColour () {
         view.backgroundColor = .red
     }
-
 }
 
